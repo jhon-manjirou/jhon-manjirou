@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jhon-manjirou
+- 👋 Hi, I’m @jhon-manjirou. I'm not john.  be called J-HON.
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
