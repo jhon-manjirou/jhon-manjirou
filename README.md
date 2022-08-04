@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @jhon-manjirou. I'm not john.  be called J-HON.
-- 👀 I’m interested in programing
+-    I can't read English, and writing too. please don't laugh.
+- 👀 I’m interested in computer.
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
